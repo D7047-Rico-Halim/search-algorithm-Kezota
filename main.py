@@ -13,6 +13,7 @@ graph = {
     'G': []
 }
 
+# heuristics
 heuristics = {
     'A': 7,
     'B': 6,
